@@ -1,0 +1,47 @@
+﻿body{
+	background: linear-gradient(135deg, black, teal 80%, white);
+	background-attachment: scroll;
+}
+H1 {
+  color: #000080;
+
+  font-size: 200%;
+  font-family: Verdana;
+  text-align: center;
+}
+H2 {
+  color: #000080;
+   padding-left: 40px;
+  font-size: 200%;
+  font-family: Verdana;
+  text-align: left;
+}
+H3 {
+  color: #000080;
+  padding-left: 40px;
+  font-size: 200%;
+  font-family: Verdana;
+}
+P {
+  color: #8bd2da;
+  border: 3px double teal; 
+  padding-top: 10px; 
+  padding-left: 10px; 
+  padding-bottom: 10px; 
+  font-family: Verdana;
+}
+table {
+	border: 4px ridge teal;
+	color:#8bd2da;
+}
+TD, TH{
+	padding: 3px;
+	border: 2px ridge teal;
+}
+img {
+  background: teal; 
+  width: 400px; height: 200px; 
+	border-radius: 20px;
+	border: 5px solid black;
+	
+}
